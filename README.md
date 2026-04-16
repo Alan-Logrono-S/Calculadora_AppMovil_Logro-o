@@ -4,6 +4,7 @@ Este proyecto consiste en el desarrollo de una calculadora básica funcional par
 
 ## 🏫 Información Institucional
 **Institución:** Escuela Politécnica Nacional.
+
 **Facultad:** Escuela de Formación de Tecnólogos (ESFOT).
 **Asignatura:** Sistemas Operativos / Desarrollo App Móviles.
 **Estudiante:** Alan Joseph Logroño Soria.
