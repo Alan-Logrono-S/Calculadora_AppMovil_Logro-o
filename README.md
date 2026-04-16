@@ -16,10 +16,10 @@ Este proyecto consiste en el desarrollo de una calculadora básica funcional par
 **Investigar e implementar** la librería `expo-haptics` para proporcionar retroalimentación táctil al usuario.
 
 ## 🚀 Características
-**Interfaz de Usuario:** Diseño moderno inspirado en calculadoras de alto rendimiento con botones de colores diferenciados por función (acciones, operadores y números)[cite: 14].
-**Componentes Reutilizables:** Implementación de un componente `CalcButton` para optimizar el código y mantener la consistencia visual[cite: 14].
-**Feedback Táctil:** Uso de `expo-haptics` para generar vibraciones ligeras al presionar los botones, mejorando la experiencia de usuario[cite: 15].
-**Operaciones Básicas:** Suma, resta, multiplicación, división, cambio de signo (+/-) y borrado de caracteres[cite: 14].
+**Interfaz de Usuario:** Diseño moderno inspirado en calculadoras de alto rendimiento con botones de colores diferenciados por función (acciones, operadores y números).
+**Componentes Reutilizables:** Implementación de un componente `CalcButton` para optimizar el código y mantener la consistencia visual.
+**Feedback Táctil:** Uso de `expo-haptics` para generar vibraciones ligeras al presionar los botones, mejorando la experiencia de usuario.
+**Operaciones Básicas:** Suma, resta, multiplicación, división, cambio de signo (+/-) y borrado de caracteres.
 
 ## 🛠️ Tecnologías Utilizadas
 * **React Native**
