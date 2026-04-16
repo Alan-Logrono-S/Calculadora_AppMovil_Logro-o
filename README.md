@@ -6,25 +6,41 @@ Este proyecto consiste en el desarrollo de una calculadora básica funcional par
 **Institución:** Escuela Politécnica Nacional.
 
 **Facultad:** Escuela de Formación de Tecnólogos (ESFOT).
+
 **Asignatura:** Sistemas Operativos / Desarrollo App Móviles.
+
 **Estudiante:** Alan Joseph Logroño Soria.
+
 **Profesor:** Ing.Juan Carlos Gonzalez MSc.
+
 **Período:** 2026-A
 
 ## 🎯 Objetivos del Proyecto
+
 **Aplicar** los conocimientos adquiridos sobre el framework React Native.
+
 **Desarrollar** una calculadora básica funcional utilizando componentes reutilizables y Expo.
+
 **Investigar e implementar** la librería `expo-haptics` para proporcionar retroalimentación táctil al usuario.
 
 ## 🚀 Características
 **Interfaz de Usuario:** Diseño moderno inspirado en calculadoras de alto rendimiento con botones de colores diferenciados por función (acciones, operadores y números).
+
 **Componentes Reutilizables:** Implementación de un componente `CalcButton` para optimizar el código y mantener la consistencia visual.
+
 **Feedback Táctil:** Uso de `expo-haptics` para generar vibraciones ligeras al presionar los botones, mejorando la experiencia de usuario.
+
 **Operaciones Básicas:** Suma, resta, multiplicación, división, cambio de signo (+/-) y borrado de caracteres.
 
 ## 🛠️ Tecnologías Utilizadas
-* **React Native**
-* **Expo SDK**
-* **TypeScript**
-* **Expo Router**
-* **Expo Haptics**
+
+**React Native**
+
+**Expo SDK**
+
+**TypeScript**
+
+**Expo Router**
+
+**Expo Haptics**
+
